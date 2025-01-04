@@ -1,0 +1,27 @@
+(footprint "pcb-cap"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "In1.Cu")
+	(property "Reference" "REF**"
+		(at 3.2 7.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3550fda2-2979-44d1-b9a4-35d1d841f4a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "1" smd oval
+		(at 0 -30)
+		(size 10 70)
+		(layers "In1.Cu")
+		(clearance 2)
+		(thermal_bridge_angle 45)
+		(uuid "c0675f35-6e9c-499b-959c-519b4ed4058e")
+	)
+)
