@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "ff355f4c-e562-4fd3-bc17-978a5d849f6b")
 	(paper "A4")
+	(title_block
+		(date "5-Jan-2024")
+		(rev "1.0a")
+		(company "mjd@afork.com")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x03"
 			(pin_names
