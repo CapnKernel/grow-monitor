@@ -14482,7 +14482,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "22u 25V"
 			(at 251.841 46.9321 0)
 			(effects
 				(font
@@ -14518,7 +14518,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C45783"
 			(at 248.92 45.72 0)
 			(effects
 				(font
