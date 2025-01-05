@@ -30,7 +30,9 @@ fp-info-cache
 /*-backups/*.zip
 /__pycache__/*.pyc
 /scripts/__pycache__/*.pyc
-/output/*.pdf
-/output/*.zip
+/outputs/*.pdf
+/outputs/*.zip
+/outputs/*-[A-Z]*
+/outputs/*.gbrjob
 /venv/
 /jlcpcb/
