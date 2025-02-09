@@ -452,7 +452,7 @@
 				)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "22u 25V"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "10c4d816-f106-4291-96a2-826d55283da3")
@@ -489,7 +489,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C45783"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
